@@ -9,4 +9,9 @@ Environmental Social and Governance (ESG) factors are important for measuring an
       2.Backend:Python
       3.Libraries:Pandas,Numpy,Matplotlib
       4.Database:MYSQL
-
+# Project Objectives
+    1.To collect ESG-related data.
+    2.To calculate ESG compliance scores.
+    3.To classify organizations based on ESG performance.
+    4.To generate reports and visual insights.
+    5.To support sustainability assessment and decision-making.
