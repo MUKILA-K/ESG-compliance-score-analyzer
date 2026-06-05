@@ -1,17 +1,32 @@
 # Project Title:
-ESG-compliance-score-analyzer
+AI-Powered ESG-compliance-analyzer
 # Problem overview:
-The ESG Compliance Score Analyzer is a system designed to evaluate an organization's Environmental, Social, and Governance (ESG) performance and generate a compliance score. The project aims to simplify sustainability assessment through automated analysis and reporting.
+The AI-Powered ESG Analysis and Risk Intelligence Platform is designed to help organizations analyze their Environmental, Social, and Governance (ESG) performance more effectively. The system calculates ESG scores, identifies factors that negatively impact sustainability performance, and summarizes ESG reports to provide quick insights for decision-making.
 # Problem Statement:
-Environmental Social and Governance (ESG) factors are important for measuring an organization's sustainability and ethical practices. Many organizations find it difficult to assess their ESG performance due to the lack of a simple and centralized evaluation system. Existing methods often require manual analysis and are time-consuming. This project aims to develop an ESG Compliance Score Analyzer that calculates ESG scores based on input data. The system will provide compliance insights and visual reports to help organizations understand their performance. It will support better decision-making and promote sustainable business practices.
+Organizations and stakeholders rely on ESG (Environmental, Social, and Governance) information to evaluate sustainability performance and identify potential risks. However, ESG data is often distributed across large datasets and lengthy reports, making analysis time-consuming and complex. Manual evaluation may lead to inconsistencies and delays in identifying critical risk factors that affect ESG performance. Additionally, extracting key insights from extensive ESG reports requires significant effort. Therefore, there is a need for an intelligent system that can analyze ESG data, identify potential risks, and summarize ESG reports to support faster and more effective decision-making.
+
 # Requirements
-      1.Frontend:HTML,CSS,StreamLit,JavaScript
+      1.Frontend:HTML,CSS,JavaScript
       2.Backend:Python
-      3.Libraries:Pandas,Numpy,Matplotlib
+      3.Libraries:Pandas,Numpy,Matplotlib,Scikit-learn,NLTK 
       4.Database:MYSQL
 # Project Objectives
-    1.To collect ESG-related data.
-    2.To calculate ESG compliance scores.
-    3.To classify organizations based on ESG performance.
-    4.To generate reports and visual insights.
-    5.To support sustainability assessment and decision-making.
+      1. To collect and process ESG-related data from various sources.
+      2. To calculate and analyze ESG performance scores.
+      3. To identify key factors that influence ESG performance.
+      4. To predict potential ESG risks using machine learning techniques.
+      5. To summarize lengthy ESG reports using Natural Language Processing (NLP).
+      6. To provide visual insights and reports through an interactive dashboard.
+      7. To support organizations and stakeholders in making informed sustainability decisions.
+# User & Module identification
+user:
+
+     Company management,Investor,Researcher,Sustainability manager
+     
+Module List:
+
+      1.ESG Data Management-Upload and manage ESG datasets and reports.
+      2.ESG Score Analysis-Calculate and analyze ESG scores.
+      3.ESG Risk Prediction-Predict ESG risks using machine learning.
+      4.ESG Report Summarizer-Generate concise summaries of ESG reports.
+      5.Dashboard & Visualization-Display scores, risks, charts, and insights.
