@@ -30,5 +30,4 @@ Module List:
       3.ESG Risk Prediction-Predict ESG risks using machine learning.
       4.ESG Report Summarizer-Generate concise summaries of ESG reports.
       5.Dashboard & Visualization-Display scores, risks, charts, and insights.
-# Use case diagram
-<img width="1536" height="1024" alt="UML Diagram for miniproject" src="https://github.com/user-attachments/assets/bab550f1-18c2-462b-b3ea-4c5abde6c6bf" />
+
