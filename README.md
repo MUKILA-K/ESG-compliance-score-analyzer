@@ -11,13 +11,13 @@ Organizations and stakeholders rely on ESG (Environmental, Social, and Governanc
       3.Libraries:Pandas,Numpy,Matplotlib,Scikit-learn,NLTK 
       4.Database:MYSQL
 # Project Objectives
-      1. To collect and process ESG-related data from various sources.
-      2. To calculate and analyze ESG performance scores.
-      3. To identify key factors that influence ESG performance.
-      4. To predict potential ESG risks using machine learning techniques.
-      5. To summarize lengthy ESG reports using Natural Language Processing (NLP).
-      6. To provide visual insights and reports through an interactive dashboard.
-      7. To support organizations and stakeholders in making informed sustainability decisions.
+      •To collect and process ESG-related data from various sources.
+      •To calculate and analyze ESG performance scores.
+      •To identify key factors that influence ESG performance.
+      •To predict potential ESG risks using machine learning techniques.
+      •To summarize lengthy ESG reports using Natural Language Processing (NLP).
+      •To provide visual insights and reports through an interactive dashboard.
+      •To support organizations and stakeholders in making informed sustainability decisions.
 # User & Module identification
 user:
 
