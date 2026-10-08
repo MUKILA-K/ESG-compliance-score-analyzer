@@ -1,8 +1,8 @@
-# Project Title:
+# Project Title :
 AI-Powered ESG-compliance-analyzer
-# Problem overview:
+# Problem overview :
 The AI-Powered ESG Analysis and Risk Intelligence Platform is designed to help organizations analyze their Environmental, Social, and Governance (ESG) performance more effectively. The system calculates ESG scores, identifies factors that negatively impact sustainability performance, and summarizes ESG reports to provide quick insights for decision-making.
-# Problem Statement:
+# Problem Statement :
 Organizations and stakeholders rely on ESG (Environmental, Social, and Governance) information to evaluate sustainability performance and identify potential risks. However, ESG data is often distributed across large datasets and lengthy reports, making analysis time-consuming and complex. Manual evaluation may lead to inconsistencies and delays in identifying critical risk factors that affect ESG performance. Additionally, extracting key insights from extensive ESG reports requires significant effort. Therefore, there is a need for an intelligent system that can analyze ESG data, identify potential risks, and summarize ESG reports to support faster and more effective decision-making.
 
 # Requirements
